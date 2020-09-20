@@ -10,7 +10,7 @@ describe('workspace-project App', () => {
 
   it('should display welcome message', () => {
     page.navigateTo();
-    expect(page.getTitleText()).toEqual('Welcome to angular-config-jest!');
+    expect(page.getTitleText()).toEqual('Welcome to angular-jest-config!');
   });
 
   afterEach(async () => {

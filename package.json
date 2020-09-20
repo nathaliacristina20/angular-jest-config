@@ -1,5 +1,5 @@
 {
-  "name": "angular-config-jest",
+  "name": "angular-jest-config",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
